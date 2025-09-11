@@ -1,0 +1,8 @@
+numpy
+trimesh
+numpy-stl
+pymeshfix
+pyvista
+pyvistaqt
+PyQt5
+plotly
